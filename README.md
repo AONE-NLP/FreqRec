@@ -45,6 +45,7 @@ python main.py --alpha_loss 0.7 --gama 0.8 --data_name Sports_and_outdoors --lr 
 This repository is based on [BSARec](https://github.com/yehjin-shin/BSARec/tree/main).
 
 We are deeply grateful for the valuable code and efforts contributed by the following GitHub repositories. Their contributions have been immensely beneficial to our work.
+
 [BSARec](https://github.com/yehjin-shin/BSARec/tree/main)
 
 [DIFF](https://github.com/HyeYoung1218/DIFF)
