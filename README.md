@@ -3,7 +3,7 @@ This is the official source code for FreqRec.
 
 Code and implementation details of our paper `Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation`, accepted by AAAI 2026.
 
-![]([F:\code\AAAI2025\FreqRec\FreqRec-main\photo]https://github.com/AONE-NLP/FreqRec/tree/main/photo\FreqRec.jpg)
+![](https://github.com/AONE-NLP/FreqRec/tree/main/photo\FreqRec.jpg)
 
 
 ## Dataset
