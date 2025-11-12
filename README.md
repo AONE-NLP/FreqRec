@@ -27,8 +27,8 @@ conda activate freqrec
 python main.py --alpha_loss 0.6 --gama 0.7 --data_name Beauty --lr 0.0005 --alpha 0.7 --num_attention_heads 1 --train_name freqrec_beauty --batch_size 512 --fft_loss_type l2 --num_hidden_layers 2 --model_type freqrec --chux p
 # For Toys_and_Games dataset:
 python main.py --alpha_loss 0.6 --gama 0.7 --data_name Toys_and_Games --lr 0.001 --alpha 0.7 --num_attention_heads 1 --train_name freqrec_Toys --batch_size 256 --fft_loss_type l1 --num_hidden_layers 2 --model_type freqrec --chux p
-# For Sports_and_outdoors dataset:
-python main.py --alpha_loss 0.7 --gama 0.8 --data_name Sports_and_outdoors --lr 0.001 --alpha 0.3 --num_attention_heads 4 --train_name freqrec_Sports --batch_size 256  --fft_loss_type l2 --num_hidden_layers 2 --model_type freqrec --chux p
+# For Sports_and_Outdoors dataset:
+python main.py --alpha_loss 0.7 --gama 0.8 --data_name Sports_and_Outdoors --lr 0.001 --alpha 0.3 --num_attention_heads 4 --train_name freqrec_Sports --batch_size 256  --fft_loss_type l2 --num_hidden_layers 2 --model_type freqrec --chux p
 
 ```
 
