@@ -68,7 +68,7 @@ def parse_args():
     parser.add_argument("--epochs", default=300, type=int, help="number of epochs")
     parser.add_argument("--no_cuda", action="store_true")
     parser.add_argument("--log_freq", default=1, type=int, help="per epoch print res")
-    parser.add_argument("--patience", default=4, type=int, help="how long to wait after last time validation loss improved")
+    parser.add_argument("--patience", default=10, type=int, help="how long to wait after last time validation loss improved")
     parser.add_argument("--num_workers", default=4, type=int)
 
     parser.add_argument("--seed", default=42, type=int)
