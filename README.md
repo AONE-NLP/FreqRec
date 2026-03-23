@@ -38,10 +38,11 @@ python main.py --alpha_loss 0.7 --gama 0.8 --data_name Sports_and_Outdoors --lr 
 @inproceedings{he2026exploiting,
   title={Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation},
   author={He, Peng and Gan, Yanglei and Dai, Tingting and Lin, Run and Li, Xuexin and Liu, Yao and Liu, Qiao},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence},
   volume={40},
   number={17},
   pages={14820--14828},
+  address={Singapore},
   year={2026}
 }
 ```
